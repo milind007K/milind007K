@@ -192,5 +192,7 @@ I'm also exploring deep learning and modern AI techniques.
 - Operating Systems
 - Computer Networks
 
----
 
+📫 Connect With Me
+<p align="center"> <a href="YOUR_LINKEDIN_URL"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"> </a> <a href="mailto:YOUR_EMAIL"> <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"> </a> </p> <p align="center"> <b>⭐ If you find my projects interesting, consider giving them a star!</b> </p>
+---
